@@ -15,7 +15,7 @@ surpriseButton.addEventListener("click", () => {
 });
 
 function createFloatingSymbols() {
-  const symbols = ["♡", "♥", "🍀", "✿", "🌼"];
+  const symbols = ["♡", "♥", "🍀", "🪽", "🌼"];
 
   for (let i = 0; i < 18; i++) {
     const symbol = document.createElement("span");
